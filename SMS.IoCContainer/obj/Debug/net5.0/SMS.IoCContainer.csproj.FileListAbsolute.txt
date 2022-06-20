@@ -1,0 +1,116 @@
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.deps.json
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\ref\SMS.IoCContainer.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\ref\SMS.IoCContainer.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\Base.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.Abastractions.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.DataBaseContext.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Model.Contracts.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Models.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.Abastractions.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.Abastractions.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\Base.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.DataBaseContext.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Models.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.Abastractions.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.CopyComplete
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.deps.json
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\ref\SMS.IoCContainer.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\Base.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.Abastractions.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.DataBaseContext.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Model.Contracts.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Models.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.Abastractions.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.Abastractions.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\Base.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.DataBaseContext.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Models.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.Abastractions.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.AssemblyReference.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.AssemblyInfoInputs.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.AssemblyInfo.cs
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.CoreCompileInputs.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.CopyComplete
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\ref\SMS.IoCContainer.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.deps.json
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\ref\SMS.IoCContainer.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\Base.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.Abastractions.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.DataBaseContext.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Model.Contracts.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Models.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.Abastractions.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.Abastractions.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\Base.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.DataBaseContext.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Models.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.Abastractions.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.CopyComplete
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\ref\SMS.IoCContainer.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.deps.json
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\ref\SMS.IoCContainer.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.IoCContainer.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\Base.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.Abastractions.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.DataBaseContext.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Model.Contracts.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Models.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.Abastractions.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.Abastractions.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.BLL.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\Base.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.DataBaseContext.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Models.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\bin\Debug\net5.0\SMS.Repositories.Abastractions.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.AssemblyReference.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.AssemblyInfoInputs.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.AssemblyInfo.cs
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.CoreCompileInputs.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.csproj.CopyComplete
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\ref\SMS.IoCContainer.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.IoCContainer\obj\Debug\net5.0\SMS.IoCContainer.pdb

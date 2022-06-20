@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.16.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Base\Base.csproj" />
+    <ProjectReference Include="..\SMS.BLL.Abastractions\SMS.BLL.Abastractions.csproj" />
+    <ProjectReference Include="..\SMS.Models\SMS.Models.csproj" />
+    <ProjectReference Include="..\SMS.Repositories.Abastractions\SMS.Repositories.Abastractions.csproj" />
+  </ItemGroup>
+
+</Project>

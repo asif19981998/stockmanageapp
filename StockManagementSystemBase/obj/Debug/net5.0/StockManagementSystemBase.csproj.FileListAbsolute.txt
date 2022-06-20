@@ -1,0 +1,48 @@
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.deps.json
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\ref\StockManagementSystemBase.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\ref\StockManagementSystemBase.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.deps.json
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\ref\StockManagementSystemBase.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.csproj.AssemblyReference.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.AssemblyInfoInputs.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.AssemblyInfo.cs
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.csproj.CoreCompileInputs.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\ref\StockManagementSystemBase.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.deps.json
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\ref\StockManagementSystemBase.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\ref\StockManagementSystemBase.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.deps.json
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\ref\StockManagementSystemBase.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\bin\Debug\net5.0\StockManagementSystemBase.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.csproj.AssemblyReference.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.AssemblyInfoInputs.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.AssemblyInfo.cs
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.csproj.CoreCompileInputs.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\ref\StockManagementSystemBase.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\StockManagementSystemBase\obj\Debug\net5.0\StockManagementSystemBase.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StockManagementSystemBase</id>
+    <version>1.0.0</version>
+    <authors>StockManagementSystemBase</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Stock Mangement System 1_26_22\StockManagementSystem\StockManagementSystemBase\bin\Release\net5.0\StockManagementSystemBase.dll" target="lib\net5.0\StockManagementSystemBase.dll" />
+  </files>
+</package>

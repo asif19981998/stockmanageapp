@@ -1,0 +1,80 @@
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.deps.json
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\ref\SMS.DataBaseContext.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\ref\SMS.DataBaseContext.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Model.Contracts.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Models.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Models.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.CopyComplete
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.runtimeconfig.json
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.runtimeconfig.dev.json
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.genruntimeconfig.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.deps.json
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.runtimeconfig.json
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.runtimeconfig.dev.json
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\ref\SMS.DataBaseContext.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Model.Contracts.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Models.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Models.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.AssemblyReference.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.AssemblyInfoInputs.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.AssemblyInfo.cs
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.CoreCompileInputs.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.CopyComplete
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\ref\SMS.DataBaseContext.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.genruntimeconfig.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.deps.json
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.runtimeconfig.json
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.runtimeconfig.dev.json
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\ref\SMS.DataBaseContext.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Model.Contracts.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Models.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Models.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.CopyComplete
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\ref\SMS.DataBaseContext.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.genruntimeconfig.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.deps.json
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.runtimeconfig.json
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.runtimeconfig.dev.json
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\ref\SMS.DataBaseContext.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.DataBaseContext.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Model.Contracts.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Models.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Models.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.AssemblyReference.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.AssemblyInfoInputs.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.AssemblyInfo.cs
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.CoreCompileInputs.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.csproj.CopyComplete
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\ref\SMS.DataBaseContext.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.DataBaseContext\obj\Debug\net5.0\SMS.DataBaseContext.genruntimeconfig.cache

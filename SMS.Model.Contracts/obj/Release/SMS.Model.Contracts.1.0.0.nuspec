@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SMS.Model.Contracts</id>
+    <version>1.0.0</version>
+    <authors>SMS.Model.Contracts</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.Model.Contracts\bin\Release\net5.0\SMS.Model.Contracts.dll" target="lib\net5.0\SMS.Model.Contracts.dll" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\bin\Debug\net5.0\SMS.BLL.Repositories.deps.json
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\bin\Debug\net5.0\SMS.BLL.Repositories.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\bin\Debug\net5.0\ref\SMS.BLL.Repositories.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\bin\Debug\net5.0\SMS.BLL.Repositories.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\obj\Debug\net5.0\SMS.BLL.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\obj\Debug\net5.0\SMS.BLL.Repositories.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\obj\Debug\net5.0\SMS.BLL.Repositories.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\obj\Debug\net5.0\SMS.BLL.Repositories.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\obj\Debug\net5.0\SMS.BLL.Repositories.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\obj\Debug\net5.0\ref\SMS.BLL.Repositories.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\obj\Debug\net5.0\SMS.BLL.Repositories.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL.Repositories\obj\Debug\net5.0\SMS.BLL.Repositories.csproj.AssemblyReference.cache

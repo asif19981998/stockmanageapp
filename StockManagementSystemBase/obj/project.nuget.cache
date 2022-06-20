@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "MJPqpUngCi5fiExpVKorkz3Z68LO7X86qrplUXfQfjd002Te+4sjkfGYeOr3tzQXlskksrOqnvhM/Bq96fekaQ==",
+  "success": true,
+  "projectFilePath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\StockManagementSystemBase\\StockManagementSystemBase.csproj",
+=======
+  "dgSpecHash": "Tx/xlyZply3IW+k3ftcUZvaAsl8De0QAim2QrY5oy/cBhnQZrVH3oBxpMgsdDTzzpoJZO8K2e2JOvw43pz1lLw==",
+  "success": true,
+  "projectFilePath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\StockManagementSystemBase\\StockManagementSystemBase.csproj",
+>>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
+  "expectedPackageFiles": [],
+  "logs": []
+}

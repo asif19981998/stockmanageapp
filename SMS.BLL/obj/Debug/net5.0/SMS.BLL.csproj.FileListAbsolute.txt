@@ -1,0 +1,92 @@
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.deps.json
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\ref\SMS.BLL.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\ref\SMS.BLL.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\Base.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Model.Contracts.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Models.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Repositories.Abastractions.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\Base.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Models.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Repositories.Abastractions.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.CopyComplete
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.Abastractions.dll
+F:\Rakib,IT\P. Project\SMS(React and Asp core api)\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.Abastractions.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.deps.json
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\ref\SMS.BLL.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\Base.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.Abastractions.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Model.Contracts.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Models.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Repositories.Abastractions.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\Base.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.Abastractions.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Models.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Repositories.Abastractions.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.AssemblyReference.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.AssemblyInfoInputs.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.AssemblyInfo.cs
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.CoreCompileInputs.cache
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.CopyComplete
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\ref\SMS.BLL.dll
+E:\Stock Mangement System 1_26_22\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.deps.json
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\ref\SMS.BLL.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\Base.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.Abastractions.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Model.Contracts.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Models.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Repositories.Abastractions.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\Base.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.Abastractions.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Models.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Repositories.Abastractions.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.CopyComplete
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\ref\SMS.BLL.dll
+F:\Rakib,IT\P. Project\StockManagementSystem\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.deps.json
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\ref\SMS.BLL.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\Base.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.Abastractions.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Model.Contracts.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Models.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Repositories.Abastractions.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\Base.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.BLL.Abastractions.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Models.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Repositories.Abastractions.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\bin\Debug\net5.0\SMS.Model.Contracts.pdb
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.AssemblyReference.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.AssemblyInfoInputs.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.AssemblyInfo.cs
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.CoreCompileInputs.cache
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.csproj.CopyComplete
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\ref\SMS.BLL.dll
+E:\Stock Mangement System 1_26_22\updated stockmanagement system\StockManagementSystem\SMS.BLL\obj\Debug\net5.0\SMS.BLL.pdb
