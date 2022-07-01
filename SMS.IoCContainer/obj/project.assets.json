@@ -6357,19 +6357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj",
       "projectName": "SMS.IoCContainer",
       "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.IoCContainer\\obj\\",
-=======
-      "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj",
-      "projectName": "SMS.IoCContainer",
-      "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj",
-      "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-      "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.IoCContainer\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6386,7 +6378,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-<<<<<<< HEAD
             "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj": {
               "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj"
             },
@@ -6395,16 +6386,6 @@
             },
             "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj": {
               "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj"
-=======
-            "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj"
-            },
-            "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL\\SMS.BLL.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL\\SMS.BLL.csproj"
-            },
-            "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
             }
           }
         }
@@ -6444,6 +6425,12 @@
     }
   },
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.IoCContainer\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
     {
       "code": "NU1701",
       "level": "Warning",

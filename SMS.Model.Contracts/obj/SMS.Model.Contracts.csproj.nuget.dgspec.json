@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\obj\\",
-=======
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {}
-  },
-  "projects": {
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj",
-        "projectName": "SMS.Model.Contracts",
-        "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj",
-        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-        "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

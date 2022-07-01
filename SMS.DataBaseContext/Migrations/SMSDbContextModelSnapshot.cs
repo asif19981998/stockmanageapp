@@ -273,6 +273,9 @@ namespace SMS.DataBaseContext.Migrations
                     b.Property<DateTime?>("DeletedOn")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<bool>("IsApproved")
                         .HasColumnType("bit");
 
@@ -280,11 +283,12 @@ namespace SMS.DataBaseContext.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Customers");
+                    b.ToTable("CusomerSSS");
                 });
 
             modelBuilder.Entity("SMS.Models.EntityModels.Product", b =>

@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using SMS.BLL.Abastractions.IEntity;
 using SMS.Models;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using System.Net.Mime;
+
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace StockManagementSystem.Controllers
@@ -17,55 +20,46 @@ namespace StockManagementSystem.Controllers
     public class CustomerController : ControllerBase
     {
 
-        private ICustomerService _customerService;
+        private ICustomerService _iService;
 
-        public CustomerController(ICustomerService customerService)
+        public CustomerController(ICustomerService iService)
         {
-            _customerService = customerService;
+            _iService = iService;
         }
-        // GET: api/<CustomerController>
-        [HttpGet]
         
-        public IEnumerable<Customer> Get()
+        #region Get
+
+        [HttpGet]
+        [ProducesResponseType(StatusCodes.Status302Found,Type=typeof(IEnumerable<JsonResult>))]
+        public async Task<IActionResult> Get()
         {
             //return _customerService.GetAll();
 
-            List<Customer> customers = new List<Customer>()
-            {
-                new Customer{Name="A",CustomerType=1,ContactNumber="01706634346",Address="Dhanmondi",IsApproved=false},
-                 new Customer{Name="B",CustomerType=1,ContactNumber="01706634346",Address="Dhanmondi",IsApproved=false},
-            };
-
-            return customers;
+            return null;
         }
 
-        [HttpGet]
-        [Route("getUpdatedValue")]
+        #endregion
 
-        //public IEnumerable<Customer> GetUpdateValue()
-        //{
-        //    //List<Customer> customers = new List<Customer>()
-        //    //{
-        //    //    new Customer(){Id=1,Name="Asif",TotalBill=12340},
-        //    //    new Customer(){Id=2,Name="Makil",TotalBill=12340},
-        //    //};
-
-        //    return customers;
-        //}
-
-        // GET api/<CustomerController>/5
+        #region GetById
         [HttpGet("{id}")]
-        public string Get(int id)
+        [ProducesResponseType(StatusCodes.Status302Found, Type = typeof(JsonResult))]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> Get(int id)
         {
-            return "value";
+            return null;
         }
-
-        // POST api/<CustomerController>
+        #endregion
+       
+        #region Post
         [HttpPost]
-        [Route("postCustomer")]
+        [Consumes(MediaTypeNames.Application.Json)]
+        [ProducesResponseType(StatusCodes.Status201Created, Type = typeof(JsonResult))]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        
         public async Task<IActionResult> Post(Customer model)
         {
-           bool isSaved = await _customerService.AddAsync(model);
+           bool isSaved = await _iService.AddAsync(model);
             if (isSaved)
             {
                 return Ok(new ResponseResult { Result=model,IsSuccess=true,Message="Successfully Saved"});
@@ -73,17 +67,30 @@ namespace StockManagementSystem.Controllers
             
                return Ok(new ResponseResult { Result = model, IsSuccess = false,Message="Failed To Saved" }); ;
         }
+        #endregion
+        
+        #region Put
 
-        // PUT api/<CustomerController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [Consumes(MediaTypeNames.Application.Json)]
+        [ProducesResponseType(StatusCodes.Status201Created, Type = typeof(JsonResult))]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> Put(long id, Customer dto)
         {
+            return  null;
         }
-
-        // DELETE api/<CustomerController>/5
+        #endregion
+        
+        #region Delete
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        [ProducesResponseType(StatusCodes.Status201Created, Type = typeof(JsonResult))]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> Delete(int id)
         {
+            return null;
         }
+        #endregion
     }
 }

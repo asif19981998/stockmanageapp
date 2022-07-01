@@ -21,6 +21,7 @@ namespace SMS.IoCContainer
             services.AddTransient<ICustomerRepository, CustomerRepository>();
             services.AddTransient<IJwtTokenService, JwtTokenService>();
             services.AddTransient<SMSDbContext>();
+            
         }
     }
 }

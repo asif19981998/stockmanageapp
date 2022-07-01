@@ -6705,19 +6705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj",
       "projectName": "SMS.Repositories",
       "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\obj\\",
-=======
-      "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj",
-      "projectName": "SMS.Repositories",
-      "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj",
-      "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-      "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6734,7 +6726,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-<<<<<<< HEAD
             "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj": {
               "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj"
             },
@@ -6743,16 +6734,6 @@
             },
             "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj": {
               "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj"
-=======
-            "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj"
-            },
-            "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
-            },
-            "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
             }
           }
         }
@@ -6786,6 +6767,12 @@
     }
   },
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
     {
       "code": "NU1701",
       "level": "Warning",

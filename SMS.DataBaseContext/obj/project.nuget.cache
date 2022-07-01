@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "CkvNISAJtd2AhA0yuT9BrizpOxOtkNlLOApHfs9v5khCX0sMw5v6y9HD1V74Erg/8GYrvEacq6uh+h+To2Fpiw==",
   "success": true,
   "projectFilePath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj",
-=======
-  "dgSpecHash": "pUAG9M271srmAlPP402DG4+7DHhWBINqUzPjsacKPIQheujaJ6afPpqm8t/3XWOz5zYWSHsjWdPReJ/YsEv4/Q==",
-  "success": true,
-  "projectFilePath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -140,6 +134,12 @@
     "C:\\Users\\User\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.DataBaseContext\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
     {
       "code": "NU1701",
       "level": "Warning",

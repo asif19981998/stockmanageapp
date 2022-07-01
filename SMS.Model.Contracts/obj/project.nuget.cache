@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "31UTP9zhIkFjnIi0h3Ev39hjNkKpbmnJ4ulG3A513m77gc1xaXRXHIJ/+OexucWwZCL/m9/zHVEdtDuworpqPA==",
   "success": true,
   "projectFilePath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj",
-=======
-  "dgSpecHash": "wj53wOsI29BrDI4TBRd9JggpLN8BBtiRhCyPt+pW1XKtMcaT1vyyFpue+dE347Vn/xyggphQ2N4SfZ5I7phdwg==",
-  "success": true,
-  "projectFilePath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

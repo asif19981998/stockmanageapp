@@ -2070,19 +2070,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj",
       "projectName": "SMS.BLL.Abastractions",
       "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\obj\\",
-=======
-      "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj",
-      "projectName": "SMS.BLL.Abastractions",
-      "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj",
-      "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-      "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2099,19 +2091,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-<<<<<<< HEAD
             "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj": {
               "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj"
             },
             "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
               "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
-=======
-            "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj"
-            },
-            "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
             }
           }
         }
@@ -2149,5 +2133,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -548,19 +548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj",
       "projectName": "Base",
       "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\obj\\",
-=======
-      "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj",
-      "projectName": "Base",
-      "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj",
-      "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-      "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -577,13 +569,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-<<<<<<< HEAD
             "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {
               "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj"
-=======
-            "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
             }
           }
         }
@@ -621,5 +608,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

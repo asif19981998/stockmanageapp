@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using SMS.BLL.Abastractions.IService;
 using SMS.Models;
 using SMS.Models.AuthModels;
-using SMS.Models.ViewModel;
+using SMS.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;

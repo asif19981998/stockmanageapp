@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\obj\\",
-=======
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj": {}
-  },
-  "projects": {
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj",
-        "projectName": "Base",
-        "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj",
-        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-        "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,13 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-<<<<<<< HEAD
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj"
-=======
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
               }
             }
           }
@@ -87,7 +68,6 @@
         }
       }
     },
-<<<<<<< HEAD
     "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -96,16 +76,6 @@
         "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\obj\\",
-=======
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj",
-        "projectName": "SMS.BLL.Abastractions",
-        "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj",
-        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-        "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,19 +92,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-<<<<<<< HEAD
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj"
               },
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
-=======
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj"
-              },
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
               }
             }
           }
@@ -173,7 +135,6 @@
         }
       }
     },
-<<<<<<< HEAD
     "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL\\SMS.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -182,16 +143,6 @@
         "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL\\SMS.BLL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL\\obj\\",
-=======
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL\\SMS.BLL.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL\\SMS.BLL.csproj",
-        "projectName": "SMS.BLL",
-        "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL\\SMS.BLL.csproj",
-        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-        "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -208,7 +159,6 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-<<<<<<< HEAD
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj"
               },
@@ -220,19 +170,6 @@
               },
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj"
-=======
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj"
-              },
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj"
-              },
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
-              },
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
               }
             }
           }
@@ -271,7 +208,6 @@
         }
       }
     },
-<<<<<<< HEAD
     "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -280,16 +216,6 @@
         "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.DataBaseContext\\obj\\",
-=======
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj",
-        "projectName": "SMS.DataBaseContext",
-        "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj",
-        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-        "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.DataBaseContext\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -306,13 +232,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-<<<<<<< HEAD
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
-=======
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
               }
             }
           }
@@ -371,7 +292,6 @@
         }
       }
     },
-<<<<<<< HEAD
     "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -380,16 +300,6 @@
         "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.IoCContainer\\obj\\",
-=======
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj",
-        "projectName": "SMS.IoCContainer",
-        "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.IoCContainer\\SMS.IoCContainer.csproj",
-        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-        "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.IoCContainer\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -406,7 +316,6 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-<<<<<<< HEAD
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj"
               },
@@ -415,16 +324,6 @@
               },
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj"
-=======
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL.Abastractions\\SMS.BLL.Abastractions.csproj"
-              },
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL\\SMS.BLL.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.BLL\\SMS.BLL.csproj"
-              },
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
               }
             }
           }
@@ -463,7 +362,6 @@
         }
       }
     },
-<<<<<<< HEAD
     "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -472,16 +370,6 @@
         "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\obj\\",
-=======
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj",
-        "projectName": "SMS.Model.Contracts",
-        "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj",
-        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-        "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -528,7 +416,6 @@
         }
       }
     },
-<<<<<<< HEAD
     "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -537,16 +424,6 @@
         "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\obj\\",
-=======
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj",
-        "projectName": "SMS.Models",
-        "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj",
-        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-        "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -563,13 +440,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-<<<<<<< HEAD
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj"
-=======
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Model.Contracts\\SMS.Model.Contracts.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
               }
             }
           }
@@ -612,7 +484,6 @@
         }
       }
     },
-<<<<<<< HEAD
     "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -621,16 +492,6 @@
         "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories.Abastractions\\obj\\",
-=======
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj",
-        "projectName": "SMS.Repositories.Abastractions",
-        "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj",
-        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-        "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories.Abastractions\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -647,19 +508,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-<<<<<<< HEAD
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\Base\\Base.csproj"
               },
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
-=======
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\Base\\Base.csproj"
-              },
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
               }
             }
           }
@@ -692,7 +545,6 @@
         }
       }
     },
-<<<<<<< HEAD
     "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -701,16 +553,6 @@
         "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories\\obj\\",
-=======
-    "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj",
-        "projectName": "SMS.Repositories",
-        "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\SMS.Repositories.csproj",
-        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-        "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -727,7 +569,6 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-<<<<<<< HEAD
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj"
               },
@@ -736,16 +577,6 @@
               },
               "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj": {
                 "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj"
-=======
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.DataBaseContext\\SMS.DataBaseContext.csproj"
-              },
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj"
-              },
-              "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj": {
-                "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Repositories.Abastractions\\SMS.Repositories.Abastractions.csproj"
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
               }
             }
           }

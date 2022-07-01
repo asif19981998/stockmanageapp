@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "KieQIujETZM7RK813uVXb41pl3R/R2KhBBbBaaB7WrFQoIlJ6A1FCafkVb9xbY0aFRaOjVozsM9XvebOdJy6RA==",
   "success": true,
   "projectFilePath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj",
-=======
-  "dgSpecHash": "5roxEmlVkF1QkdagEfERv81PmbCtOm6BHQ+kk3+cPoTHklGFbMviMbITNneuT3bVeJNg0dXUQ+oSi9r7Ak3VIg==",
-  "success": true,
-  "projectFilePath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\SMS.Models\\SMS.Models.csproj",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -61,5 +55,12 @@
     "C:\\Users\\User\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\SMS.Models\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

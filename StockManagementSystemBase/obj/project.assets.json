@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\StockManagementSystemBase\\StockManagementSystemBase.csproj",
       "projectName": "StockManagementSystemBase",
       "projectPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\StockManagementSystemBase\\StockManagementSystemBase.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\StockManagementSystemBase\\obj\\",
-=======
-      "projectUniqueName": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\StockManagementSystemBase\\StockManagementSystemBase.csproj",
-      "projectName": "StockManagementSystemBase",
-      "projectPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\StockManagementSystemBase\\StockManagementSystemBase.csproj",
-      "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-      "outputPath": "F:\\Rakib,IT\\P. Project\\smsapp\\StockManagementSystem\\StockManagementSystemBase\\obj\\",
->>>>>>> c5d068cda732e848560f758bb9c00fbe6e4d4012
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,5 +63,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Stock Mangement System 1_26_22\\updated stockmanagement system\\StockManagementSystem\\StockManagementSystemBase\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
